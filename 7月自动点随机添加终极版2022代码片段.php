@@ -1,4 +1,4 @@
-
+8
 <script>
 $(document).ready(function(){
   $("#btn1").click(function(){
@@ -89,6 +89,22 @@ alert('按钮被点击啦');
 }
 
 </script>
+
+
+
+
+
+
+//片段4
+      
+    <label>
+     
+  <input type="checkbox" name="a[1+]" id="abc" value="1">1=<h3 style="color:#" id="a"></h3>
+
+
+ </label>
+
+
 
 
 
